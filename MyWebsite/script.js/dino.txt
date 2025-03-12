@@ -1,4 +1,0 @@
-// Example of a simple button click effect or interaction
-document.querySelector('.hero h1').addEventListener('click', function() {
-  alert('Welcome to Dinosaur World!');
-});
